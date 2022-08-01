@@ -12,7 +12,7 @@ public class Locators {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
 
-        driver.get("http://practice.cybertekschool.com/");
+        driver.get("http://practice.cybertekschool.com/dropdown");
 
 //        WebElement flash = driver.findElement(By.id("flash-messages"));
 //        System.out.println(flash.getTagName());
@@ -41,6 +41,25 @@ public class Locators {
 //        System.out.println(partialLinkText.getText());
 
 
+//        WebElement flash = driver.findElement(By.cssSelector("div#flash-messages"));
+//        System.out.println(flash.getTagName());
+
+//        WebElement fp = driver.findElement(By.cssSelector("div.example > h2"));
+//        System.out.println(fp.getText());
+
+//        WebElement stateArkan = driver.findElement(By.cssSelector("select#state> option:nth-of-type(5)"));
+//        System.out.println(stateArkan.getText());
+
+        List<WebElement> allStates = driver.findElements(By.cssSelector("select#state> option"));
+        for (int i = 0; i < allStates.size(); i++) {
+            System.out.println(allStates.get(i).getText());
+
+        }
+
+        }
+
+
+
 
     }
-}
+
