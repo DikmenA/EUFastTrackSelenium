@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd2ca51-d8b8-4342-bc43-0a028f875342" name="Changes" comment="pom updated&#10;practice class created">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day2/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day2/Practice.java" afterDir="false" />
+    <list default="true" id="1dd2ca51-d8b8-4342-bc43-0a028f875342" name="Changes" comment="practice finished">
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +140,7 @@
       <updated>1659375269454</updated>
       <workItem from="1659375270998" duration="7066000" />
       <workItem from="1659534521641" duration="61000" />
-      <workItem from="1659546054595" duration="2546000" />
+      <workItem from="1659546054595" duration="2874000" />
     </task>
     <task id="LOCAL-00001" summary="created locator class">
       <created>1659377877511</created>
@@ -171,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659551483621</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="practice finished">
+      <created>1659553753354</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659553753354</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +199,7 @@
     <MESSAGE value="introduced new methods" />
     <MESSAGE value="added locators" />
     <MESSAGE value="pom updated&#10;practice class created" />
-    <option name="LAST_COMMIT_MESSAGE" value="pom updated&#10;practice class created" />
+    <MESSAGE value="practice finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice finished" />
   </component>
 </project>
