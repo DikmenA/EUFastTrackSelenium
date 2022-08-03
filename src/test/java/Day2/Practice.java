@@ -5,6 +5,8 @@ import org.junit.*;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.*;
 
+import java.util.*;
+
 public class Practice {
 
     WebDriver driver;
@@ -41,5 +43,25 @@ public class Practice {
         WebElement headXpath = driver.findElement(By.xpath("//*[@class=\"learntocodeh1\"]"));
         System.out.println(headCss.getTagName());
         System.out.println(headXpath.getTagName());
+    }
+
+    @Test
+    public void test4(){
+        driver.get("https://www.w3schools.com");
+        WebElement search = driver.findElement(By.id("search2"));
+        System.out.println(search.getTagName());
+    }
+
+    @Test
+    public void test5(){
+        driver.get("https://www.ebay.com/globaldeals");
+        List<WebElement> names = driver.findElements(By.xpath("//span[@itemprop=\"name\"]"));
+        List<WebElement> prices = driver.findElements(By.xpath("//span[@itemprop=\"price\"]\n"));
+        for (int i = 0; i < names.size(); i++) {
+            System.out.println(names.get(i).getText());
+            System.out.println(prices.get(i).getText());
+            System.out.println();
+
+        }
     }
 }
