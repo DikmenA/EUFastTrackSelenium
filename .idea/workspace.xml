@@ -47,23 +47,7 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Waits.test3">
-    <configuration name="Methods.clickCheckBox" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EUFastTrackSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day2" />
-      <option name="MAIN_CLASS_NAME" value="Day2.Methods" />
-      <option name="METHOD_NAME" value="clickCheckBox" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.RadioBtn.test1">
     <configuration name="Methods.sendKeys" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EUFastTrackSelenium" />
       <extension name="coverage">
@@ -75,6 +59,22 @@
       <option name="PACKAGE_NAME" value="Day2" />
       <option name="MAIN_CLASS_NAME" value="Day2.Methods" />
       <option name="METHOD_NAME" value="sendKeys" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadioBtn.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EUFastTrackSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day3" />
+      <option name="MAIN_CLASS_NAME" value="Day3.RadioBtn" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RadioBtn.test1" />
         <item itemvalue="JUnit.Waits.test3" />
         <item itemvalue="JUnit.Waits.test2" />
         <item itemvalue="JUnit.Waits.test1" />
         <item itemvalue="JUnit.Methods.sendKeys" />
-        <item itemvalue="JUnit.Methods.clickCheckBox" />
       </list>
     </recent_temporary>
   </component>
