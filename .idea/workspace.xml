@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd2ca51-d8b8-4342-bc43-0a028f875342" name="Changes" comment="day 4 first push-- frames and upload">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/DragDrop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/Hover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/Keyboard.java" afterDir="false" />
+    <list default="true" id="1dd2ca51-d8b8-4342-bc43-0a028f875342" name="Changes" comment="day 4 second push-- actions">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/JSExecuter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,8 +49,8 @@
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Keyboard.test2">
-    <configuration name="DragDrop.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.JSExecuter.test3">
+    <configuration name="JSExecuter.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EUFastTrackSelenium" />
       <extension name="coverage">
         <pattern>
@@ -61,14 +59,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Day4" />
-      <option name="MAIN_CLASS_NAME" value="Day4.DragDrop" />
+      <option name="MAIN_CLASS_NAME" value="Day4.JSExecuter" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DragDrop.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JSExecuter.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EUFastTrackSelenium" />
       <extension name="coverage">
         <pattern>
@@ -77,14 +75,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Day4" />
-      <option name="MAIN_CLASS_NAME" value="Day4.DragDrop" />
+      <option name="MAIN_CLASS_NAME" value="Day4.JSExecuter" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hover.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="JSExecuter.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EUFastTrackSelenium" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +91,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Day4" />
-      <option name="MAIN_CLASS_NAME" value="Day4.Hover" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="Day4.JSExecuter" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.JSExecuter.test3" />
+        <item itemvalue="JUnit.JSExecuter.test2" />
+        <item itemvalue="JUnit.JSExecuter.test1" />
         <item itemvalue="JUnit.Keyboard.test2" />
         <item itemvalue="JUnit.Keyboard.test1" />
-        <item itemvalue="JUnit.DragDrop.test2" />
-        <item itemvalue="JUnit.DragDrop.test1" />
-        <item itemvalue="JUnit.Hover.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -158,7 +156,7 @@
       <workItem from="1659815043926" duration="2006000" />
       <workItem from="1659908661894" duration="101000" />
       <workItem from="1659968332920" duration="10000" />
-      <workItem from="1659968396227" duration="4757000" />
+      <workItem from="1659968396227" duration="5485000" />
     </task>
     <task id="LOCAL-00001" summary="created locator class">
       <created>1659377877511</created>
@@ -251,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659980638301</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="day 4 second push-- actions">
+      <created>1659983056421</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1659983056421</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,6 +287,7 @@
     <MESSAGE value="day 3 forth push-- dropdown and alerts are added" />
     <MESSAGE value="day 3 fifth push-- windows, Junit added" />
     <MESSAGE value="day 4 first push-- frames and upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 4 first push-- frames and upload" />
+    <MESSAGE value="day 4 second push-- actions" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 4 second push-- actions" />
   </component>
 </project>
