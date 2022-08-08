@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dd2ca51-d8b8-4342-bc43-0a028f875342" name="Changes" comment="day 3 forth push-- dropdown and alerts are added">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day3/Frames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day3/Junit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day3/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day3/Windows.java" afterDir="false" />
+    <list default="true" id="1dd2ca51-d8b8-4342-bc43-0a028f875342" name="Changes" comment="day 3 fifth push-- windows, Junit added">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/Upload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day4/iframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/upload.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day3/Frames.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day4/Frames.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,94 +35,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Zulpikar/IdeaProjects/EUFastTrackSelenium/src/test/java/utilities"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="utilities" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Junit">
-    <configuration name="Alerts.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EUFastTrackSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day3" />
-      <option name="MAIN_CLASS_NAME" value="Day3.Alerts" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Upload.test1">
     <configuration name="Frames.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EUFastTrackSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3.*" />
+          <option name="PATTERN" value="Day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day3" />
-      <option name="MAIN_CLASS_NAME" value="Day3.Frames" />
+      <option name="PACKAGE_NAME" value="Day4" />
+      <option name="MAIN_CLASS_NAME" value="Day4.Frames" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Junit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Upload.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EUFastTrackSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3.*" />
+          <option name="PATTERN" value="Day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day3" />
-      <option name="MAIN_CLASS_NAME" value="Day3.Junit" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Table.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="EUFastTrackSelenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Day3" />
-      <option name="MAIN_CLASS_NAME" value="Day3.Table" />
+      <option name="PACKAGE_NAME" value="Day4" />
+      <option name="MAIN_CLASS_NAME" value="Day4.Upload" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Windows.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="iframe.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="EUFastTrackSelenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day3.*" />
+          <option name="PATTERN" value="Day4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Day3" />
-      <option name="MAIN_CLASS_NAME" value="Day3.Windows" />
+      <option name="PACKAGE_NAME" value="Day4" />
+      <option name="MAIN_CLASS_NAME" value="Day4.iframe" />
       <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iframe.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EUFastTrackSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day4" />
+      <option name="MAIN_CLASS_NAME" value="Day4.iframe" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="iframe.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="EUFastTrackSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Day4" />
+      <option name="MAIN_CLASS_NAME" value="Day4.iframe" />
+      <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Junit" />
-        <item itemvalue="JUnit.Table.test1" />
-        <item itemvalue="JUnit.Windows.test1" />
+        <item itemvalue="JUnit.Upload.test1" />
         <item itemvalue="JUnit.Frames.test1" />
-        <item itemvalue="JUnit.Alerts.test3" />
+        <item itemvalue="JUnit.iframe.test3" />
+        <item itemvalue="JUnit.iframe.test2" />
+        <item itemvalue="JUnit.iframe.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +152,11 @@
       <workItem from="1659534521641" duration="61000" />
       <workItem from="1659546054595" duration="5516000" />
       <workItem from="1659646890889" duration="4000" />
-      <workItem from="1659718826898" duration="8365000" />
+      <workItem from="1659718826898" duration="8968000" />
+      <workItem from="1659815043926" duration="2006000" />
+      <workItem from="1659908661894" duration="101000" />
+      <workItem from="1659968332920" duration="10000" />
+      <workItem from="1659968396227" duration="2857000" />
     </task>
     <task id="LOCAL-00001" summary="created locator class">
       <created>1659377877511</created>
@@ -229,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659724896988</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="day 3 fifth push-- windows, Junit added">
+      <created>1659728597490</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659728597490</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +271,7 @@
     <MESSAGE value="day 3 second push-- radio button" />
     <MESSAGE value="day 3 third push-- check box button" />
     <MESSAGE value="day 3 forth push-- dropdown and alerts are added" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 3 forth push-- dropdown and alerts are added" />
+    <MESSAGE value="day 3 fifth push-- windows, Junit added" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3 fifth push-- windows, Junit added" />
   </component>
 </project>
